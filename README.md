@@ -41,7 +41,7 @@
 ### 🌍 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-yuri-grolli/" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-yuri-grolli-1753ab305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin:4px;" alt="LinkedIn" />
   </a>
   <a href="mailto:diogoyurigrolli@gmail.com" target="_blank">
