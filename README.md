@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Desenvolvedor e QA, Estudando Análise e Desenvolvimento de Sistemas.<br>
-  Sempre em buscar de novas atualizações do mercado da tecnologia.</i>
+  Sempre em busca de novas atualizações do mercado da tecnologia.</i>
 </p>
 
 <div align="center">
