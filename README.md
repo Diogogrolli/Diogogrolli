@@ -8,8 +8,6 @@
 <div align="center">
 
 
----
-
 ### 🧠 Tecnologias que uso
 
 <div align="center">
