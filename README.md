@@ -48,9 +48,10 @@
   <a href="https://wa.me/554998026871" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" style="margin:4px;" alt="WhatsApp" />
   </a>
- <a href="https://diogoyurigrolli.shop" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="40" height="40" style="margin:4px;" alt="Portfólio" />
+<a href="https://diogoyurigrolli.shop" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/484/484167.png" width="40" height="40" style="margin:4px;" alt="Portfólio" />
 </a>
+
 
 </div>
 
