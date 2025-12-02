@@ -10,12 +10,11 @@
 <h2 align="center">🧪 Sobre mim</h2>
 
 <p align="center">
-  Profissional focado em **qualidade de software**, criando documentações claras, casos de testes eficientes e garantindo que aplicações funcionem de forma segura, performática e confiável.<br>
+  Profissional focado em qualidade de software, criando documentações claras, casos de testes eficientes e garantindo que aplicações funcionem de forma segura, performática e confiável.<br>
   Além da área de QA, estudo desenvolvimento para ampliar minhas habilidades técnicas e entender o ciclo completo de construção de sistemas.
 </p>
 
 ---
-
 <h2 align="center">🧠 Tecnologias & Ferramentas</h2>
 
 <div align="center">
@@ -29,26 +28,19 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="margin: 6px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="margin: 6px;"/></a>
 
-  <br><br>
-
-    <h3>🗄 Banco de Dados</h3>
+  <br>     <h3>🗄 Banco de Dados</h3>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 6px;"/></a>
 
-  <br><br>
-
-    <h3>📱 Desenvolvimento Mobile</h3>
+  <br>     <h3>📱 Desenvolvimento Mobile</h3>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" style="margin: 6px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" style="margin: 6px;"/></a>
 
-  <br><br>
-
-    <h3>🧪 QA, Gestão e Produtividade</h3>
+  <br>     <h3>🧪 QA, Gestão e Produtividade</h3>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" style="margin: 6px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45" style="margin: 6px;"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" style="margin: 6px;"/></a>
 
 </div>
-
 ---
 
 <h2 align="center">📂 Minhas Principais Competências</h2>
