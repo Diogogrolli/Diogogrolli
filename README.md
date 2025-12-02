@@ -62,16 +62,16 @@
 <h2 align="center">🌍 Onde me encontrar</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-yuri-grolli-1753ab305" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-yuri-grolli-1753ab305" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin:10px;" />
   </a>
-  <a href="mailto:diogoyurigrolli@gmail.com" target="_blank">
+  <a href="mailto:diogoyurigrolli@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" style="margin:10px;" />
   </a>
-  <a href="https://wa.me/554998026871" target="_blank">
+  <a href="https://wa.me/554998026871" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45" style="margin:10px;" />
   </a>
-  <a href="https://diogoyurigrolli.shop" target="_blank">
+  <a href="https://diogoyurigrolli.shop" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" width="45" style="margin:10px;" />
   </a>
 </div>
