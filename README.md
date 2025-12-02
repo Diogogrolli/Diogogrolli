@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Analista de Testes JR / QA • Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  <i>Apaixonado por **qualidade**, **automação**, documentação clara e **evolução constante** na área de tecnologia.</i>
+  <i>Apaixonado por qualidade, automação, documentação clara e evolução constante na área de tecnologia.</i>
 </p>
 
 ---
@@ -41,7 +41,7 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" style="margin: 6px;"/></a>
 
 </div>
----
+
 
 <h2 align="center">📂 Minhas Principais Competências</h2>
 
