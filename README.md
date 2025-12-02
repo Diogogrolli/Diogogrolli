@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Diogo Grolli</h1>
 
 <p align="center">
-  <i>Desenvolvedor e QA, Estudando Análise e Desenvolvimento de Sistemas.<br>
+  <i>Analista de Testes JR/QA - Estudando Análise e Desenvolvimento de Sistemas.<br>
   Sempre em busca de novas atualizações do mercado da tecnologia.</i>
 </p>
 
