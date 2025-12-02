@@ -48,7 +48,11 @@
   <a href="https://wa.me/554998026871" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" style="margin:4px;" alt="WhatsApp" />
   </a>
+  <a href="https://diogoyurigrolli.shop" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84136.png" width="40" height="40" style="margin:4px;" alt="Portfólio" />
+  </a>
 </div>
+
 
 <p align="center"><i>
 Conhecimento aprofundado em Documentações de testes, casos de testes e programação
