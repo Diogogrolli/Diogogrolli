@@ -1,8 +1,8 @@
 <h1 align="center">👨‍💻 Diogo Grolli</h1>
 
 <p align="center">
-  <strong>Analista de Testes JR / QA • Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  <i>Apaixonado por qualidade, automação, documentação clara e evolução constante na área de tecnologia.</i>
+  <strong> Software Engineer JR • Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
+  <i>Desenvolvedor focado em construir software escalável com código limpo, automação de processos e documentação técnica de alta qualidade.</i>
 </p>
 
 ---
@@ -10,8 +10,7 @@
 <h2 align="center">🧪 Sobre mim</h2>
 
 <p align="center">
-  Profissional focado em qualidade de software, criando documentações claras, casos de testes eficientes e garantindo que aplicações funcionem de forma segura, performática e confiável.<br>
-  Além da área de QA, estudo desenvolvimento para ampliar minhas habilidades técnicas e entender o ciclo completo de construção de sistemas.
+ Desenvolvedor focado na construção de sistemas robustos, utilizando boas práticas de arquitetura e documentação técnica para entregar aplicações seguras, performáticas e confiáveis. Com sólida base em qualidade de software, aplico uma visão analítica em todo o ciclo de desenvolvimento, da modelagem de dados à implementação de funcionalidades críticas.
 </p>
 
 ---
@@ -30,6 +29,8 @@
 
   <br>     <h3>🗄 Banco de Dados</h3>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 6px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin: 6px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" style="margin: 6px;"/></a>
 
   <br>     <h3>📱 Desenvolvimento Mobile</h3>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" style="margin: 6px;"/></a>
@@ -47,13 +48,12 @@
 
 <div align="center">
   <ul align="left" style="display: inline-block; text-align: left; margin-top: 10px;">
-    <li>📌 **Elaboração de Documentação** clara e objetiva de casos de teste.</li>
-    <li>📌 Criação, execução e análise de cenários de testes.</li>
-    <li>📌 Proficiência em Testes Funcionais, Regressão e Exploratórios.</li>
-    <li>📌 Entendimento sólido sobre **testes e fluxo de dados de APIs** (Postman).</li>
-    <li>📌 Comunicação eficiente e colaboração com equipes de desenvolvimento.</li>
+    <li>📌 Arquitetura e Documentação: Elaboração de documentação técnica e mapeamento de fluxos para garantir a escalabilidade do sistema.</li>
+    <li>📌 Ciclo de Vida de Software: Domínio completo do processo de construção de sistemas, com foco em código limpo e resiliente.</li>
+    <li>📌 Engenharia de Qualidade: Desenvolvimento orientado à performance e prevenção de bugs desde a primeira linha de código.</li>
+    <li>📌 Integração de APIs: Sólido entendimento de fluxos de dados e consumo de APIs via Postman.</li>
+    <li>📌Colaboração Técnica: Experiência em equipes ágeis utilizando Jira e Confluence para gestão de requisitos.</li>
     <li>📌 Experiência prática com ferramentas de gestão (**Jira** e **Confluence**).</li>
-    <li>📌 Foco total na qualidade do produto e na **Experiência do Usuário (UX)**.</li>
   </ul>
 </div>
 
@@ -62,7 +62,7 @@
 <h2 align="center">🌍 Onde me encontrar</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-yuri-grolli-1753ab305" target="_blank" style="text-decoration: none; outline: none;">
+  <a href="https://www.linkedin.com/in/diogo-yuri-grolli/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin:10px;" />
   </a>
   <a href="mailto:diogoyurigrolli@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
