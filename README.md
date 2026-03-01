@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  <i>"Qualidade não é um ato, é um hábito — e tecnologia é evolução constante."</i>
+  <i>"Construir com excelência é um hábito; inovar com propósito é a evolução constante."</i>
 </p>
