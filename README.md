@@ -14,9 +14,6 @@
   <a href="https://wa.me/554998026871" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://diogoyurigrolli.shop" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
@@ -26,8 +23,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/ADS%20--%20Análise%20e%20Desenvolvimento%20de%20Sistemas-085041?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square"/>
-</div>
 
 ---
 
